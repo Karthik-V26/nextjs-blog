@@ -20,7 +20,7 @@ export default function Home ({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello,I'm Karthik. This is the First project build with Nxt.js.</p>
+        <p>Hello,I&apos;m Karthik. This is the First project build with Nxt.js.</p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
